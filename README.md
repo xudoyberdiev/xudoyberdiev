@@ -20,6 +20,9 @@ Hi 👋, I'm Amir</h1>
 - 📄 Know about my experiences [github](github)
 
 - ⚡ Fun fact **?**
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
